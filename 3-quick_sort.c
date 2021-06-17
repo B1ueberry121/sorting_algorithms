@@ -67,7 +67,6 @@ int partition_function(int *array, int lo, int hi, size_t size)
  * @idx: first index
  * @jdx: second index
  * @size: size of array
- * Return: none
  */
 
 void swap_element(int *array, int idx, int jdx, size_t size)
