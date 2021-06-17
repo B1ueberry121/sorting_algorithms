@@ -42,7 +42,7 @@ void insertion_sort_list(listint_t **list)
 }
 
 /**
- * node_swap - swap nodes on a dlinklist
+ * swap_nodes - swap nodes on a dlinklist
  * @first: first node
  * @second: second node
  */
